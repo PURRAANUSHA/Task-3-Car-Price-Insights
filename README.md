@@ -1,56 +1,65 @@
-# Car Price Insights Dashboard 🚗📊
-
-This project was completed as part of the ApexPlanet Data Analytics Internship – Task 3: Deep Dive Analysis & Interactive Dashboarding.
+# 🚗 Car Price Insights Dashboard (Task 3)
 
 ## 📌 Project Overview
 
-The goal of this project was to analyze car price data and build an interactive Power BI dashboard to generate meaningful business insights using visual analytics.
+This project is part of the ApexPlanet Data Analytics Internship – Task 3. The objective is to perform deep-dive analysis on car price data and create an interactive Power BI dashboard to generate meaningful business insights using data visualization techniques.
 
-The dashboard helps users explore:
-
-* Car price trends
-* Brand-wise price analysis
-* Transmission distribution
-* Year-wise insights
-* Interactive filtering and comparison
+The dashboard provides interactive analysis of car prices, transmission types, brand-wise trends, and yearly price insights.
 
 ---
 
-## 📊 Dashboard Features
+# 🎯 Objectives
 
-✅ KPI Cards
-✅ Interactive Slicers & Filters
-✅ Bar Chart Analysis
-✅ Pie Chart Visualization
-✅ Trend Analysis using Line Charts
-✅ Professional Dashboard Design
-✅ Interactive Reporting
-
----
-
-## 📈 Key Insights
-
-* Average car prices across different brands
-* Distribution of transmission types
-* Year-wise car price trends
-* Comparative analysis using interactive visuals
+* Perform deep-dive analysis on car price data
+* Build an interactive Power BI dashboard
+* Analyze average prices across different car brands
+* Understand transmission distribution and trends
+* Visualize yearly price patterns
+* Use KPI cards and slicers for interactive reporting
+* Create professional business intelligence visuals
 
 ---
 
-## 🛠 Tools & Technologies Used
+# 📊 Dataset
 
-* Power BI
-* Python
-* Pandas
-* Matplotlib
-* CSV Dataset
-* Data Visualization Techniques
+### Source:
+
+Kaggle
+
+### Dataset Name:
+
+Car Prices Dataset
+
+### Description:
+
+The dataset contains information related to:
+
+* Car Brand (Make)
+* Model
+* Selling Price
+* Transmission Type
+* Manufacturing Year
+* Odometer Reading
+* Body Type
+* State
+* Vehicle Information
 
 ---
 
-## 📂 Project Structure
+# 🛠 Tools & Technologies Used
 
-```bash
+* Microsoft Power BI – Interactive Dashboard
+* Python – Data Analysis
+* Pandas – Data Cleaning & Processing
+* Matplotlib – Data Visualization
+* CSV Dataset – Data Source
+* Git & GitHub – Version Control
+
+---
+
+# 📂 Project Structure
+
+```bash id="r1"
 Task3-DeepDive-Dashboard/
 │
 ├── dashboard/
@@ -60,10 +69,10 @@ Task3-DeepDive-Dashboard/
 │   └── car_prices.csv
 │
 ├── outputs/
+│   ├── Car_Price_Insights.pbix.png
 │   ├── price_by_brand.png
 │   ├── price_distribution.png
 │   ├── transmission.png
-│   └── dashboard screenshots
 │
 ├── scripts/
 │   └── analysis.py
@@ -73,34 +82,87 @@ Task3-DeepDive-Dashboard/
 
 ---
 
-## 📷 Dashboard Preview
+# 📈 Dashboard Features
 
-The Power BI dashboard includes:
+## 🔹 KPI Cards
 
-* KPI Cards for quick insights
-* Brand-wise price comparison
-* Transmission analysis
-* Interactive slicers
-* Trend visualization
+* Total Cars
+* Average Car Price
+
+## 🔹 Interactive Filters / Slicers
+
+* Car Brand
+* Transmission Type
+* Manufacturing Year
+
+## 🔹 Visualizations
+
+* Average Price by Brand (Bar Chart)
+* Transmission Distribution (Pie Chart)
+* Price Trend by Year (Line Chart)
+* Interactive Dashboard Layout
 
 ---
 
-## 🚀 Internship Task
+# 📊 Dashboard Preview
+
+### Dashboard
+
+Car Price Insights Dashboard
+
+---
+
+# 🔍 Key Insights
+
+* Premium car brands show higher average selling prices
+* Automatic transmission vehicles dominate the dataset
+* Car prices vary significantly across manufacturing years
+* Brand-wise analysis highlights pricing differences
+* Interactive filters improve dashboard usability and exploration
+* Visualization helps identify market and pricing trends effectively
+
+---
+
+# 📌 Conclusion
+
+This project demonstrates how Power BI dashboards and data visualization techniques can be used to perform deep-dive analysis on real-world datasets.
+
+The project helped in understanding:
+
+* Dashboard creation
+* Interactive reporting
+* KPI analysis
+* Data storytelling
+* Business intelligence concepts
+
+---
+
+# 🚀 Future Enhancements
+
+* Add advanced business insights
+* Include predictive analytics for price estimation
+* Improve dashboard responsiveness
+* Add more datasets for comparative analysis
+* Create advanced Power BI reports
+
+---
+
+# 📌 Internship Task
 
 Completed as part of:
-ApexPlanet Data Analytics Internship – Task 3
 
-Task Focus:
+### ApexPlanet Data Analytics Internship – Task 3
+
+### Task Focus:
+
 Deep Dive Analysis & Interactive Dashboarding
 
 ---
 
-## 📌 Author
+# 📌 Author
 
-Anusha Purra
+### Anusha Purra
 
 GitHub:
 https://github.com/PURRAANUSHA
-
-
 
