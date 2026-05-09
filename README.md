@@ -59,7 +59,7 @@ The dataset contains information related to:
 
 # 📂 Project Structure
 
-```bash id="r1"
+```bash
 Task3-DeepDive-Dashboard/
 │
 ├── dashboard/
@@ -106,9 +106,29 @@ Task3-DeepDive-Dashboard/
 
 # 📊 Dashboard Preview
 
-### Dashboard
+## 🔹 Main Dashboard
 
-Car Price Insights Dashboard
+![Dashboard](outputs/Car_Price_Insights.pbix.png)
+
+---
+
+# 📈 Visualizations
+
+## 🔹 Average Price by Brand
+
+![Price by Brand](outputs/price_by_brand.png)
+
+---
+
+## 🔹 Price Distribution
+
+![Price Distribution](outputs/price_distribution.png)
+
+---
+
+## 🔹 Transmission Distribution
+
+![Transmission](outputs/transmission.png)
 
 ---
 
@@ -164,5 +184,7 @@ Deep Dive Analysis & Interactive Dashboarding
 ### Anusha Purra
 
 GitHub:
+https://github.com/PURRAANUSHA
+
 https://github.com/PURRAANUSHA
 
